@@ -5,3 +5,6 @@
  Yolo 딥러닝 모델을 이용해서 사용자를 Detection 한 사용자가 찍힌 이미지 안 영역과 위치에 따라 드론이 움직이게 됩니다. 
  
  사용자가 이미지 안에서 일정 범위에 따라 앞 뒤로 드론은 움직이게 되고, 사용자의 위치에 따라 드론이 왼쪽 오른쪽으로 움직이게 됩니다. 
+
+### 기술 스택
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
