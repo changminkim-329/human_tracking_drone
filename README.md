@@ -8,7 +8,7 @@
 
 ### 기술 스택
 <div align =center> 
-  <img src="https://img.shields.io/badge/Tensorflow-#FF6F00?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Tensorflow-#FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon%20ec2&logoColor=black">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=black">
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon%20rds&logoColor=black">
