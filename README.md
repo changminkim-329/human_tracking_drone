@@ -1,3 +1,8 @@
+# super_resolution_project
+저해상도 영상 이미지를 SRGAN를 이용해 고해상도 이미지로 변경해주는 프로젝트
+
+
+
 # human_tracking_drone
 YOLO를 사용해 사람을 탐지하여 추적하는 드론 프로젝트
 
