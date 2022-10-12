@@ -1,6 +1,6 @@
 # human_tracking_drone
-### Drone tracking Human
 YOLO를 사용해 사람을 탐지하여 추적하는 드론 프로젝트
+
 ![drone_tracking](https://user-images.githubusercontent.com/59727077/188349851-6ea3cd82-51eb-43e0-b4ef-851925e292ce.gif)
  
  Yolo 딥러닝 모델을 이용해서 사용자를 Detection 한 사용자가 찍힌 이미지 안 영역과 위치에 따라 드론이 움직이게 됩니다. 
